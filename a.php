@@ -1,0 +1,3 @@
+<?php 
+echo "Hello";
+mysqli_connect("localhost","root","") or die(mysql_error);
